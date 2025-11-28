@@ -23,11 +23,6 @@ public class SequentialMode {
         }
     }
 
-    public static void main(String[] args) {
-        int[][] b = new int[9][9];
-        b[0][0] = 8;
-        b[0][1] = 8;
-        printResult(b);
-    }
+    
 }
 
